@@ -27,6 +27,7 @@
   "dependencies": {
     "gridfs-stream": "^1.1.1",
     "lodash": "^4.11.1",
+    "q": "^1.4.1",
     "stream-read": "^1.1.2"
   },
   "devDependencies": {

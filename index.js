@@ -1,8 +1,7 @@
 'use strict';
 
 //dependencies
-var path = require('path');
-var storage = require(path.join(__dirname, 'lib', 'storage'));
+var storage = require('./lib/storage');
 
 //export gridfs storage
 module.exports = storage;
